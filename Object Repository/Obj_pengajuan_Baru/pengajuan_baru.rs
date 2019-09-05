@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>pengajuan_baru</name>
+   <tag></tag>
+   <elementGuidId>afa5c3ed-2a9c-4a70-a4b3-d3cd14f31ebb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>button_ajukan_pinjaman</name>
+      <type>Main</type>
+      <value>//button[@id='homeBtn_ajukanPinjaman']</value>
+   </webElementProperties>
+</WebElementEntity>
